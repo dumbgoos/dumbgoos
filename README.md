@@ -4,6 +4,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dumbgoos&show_icons=true&theme=swift" height="160" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="160" />
+  <img src="./assets/kyubey.gif" height="160" />
 
 </div>
